@@ -32,7 +32,7 @@
       "key": "["
     }
   ],
-  "media-extended:copy-screenshot": [
+  "media-extended:take-screenshot": [
     {
       "modifiers": [
         "Alt"
