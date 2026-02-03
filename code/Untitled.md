@@ -34,7 +34,7 @@ tags:
 <% tp.file.cursor() %>
 
 - [00:45](https://www.youtube.com/watch?v=HFM3se4lNiw&t=46#t=00:45.69)
-- 
+- `{{fileName}}-{{date:YYYYMMDDHHmm}}`
 ---
 
 ## 💡 总结 (Summary)
