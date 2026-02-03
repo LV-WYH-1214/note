@@ -34,7 +34,8 @@ Target Deck: 通用
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
 
-who an i ?==WYH==
+who an i ?
+==WYH==
 
 ---
 
@@ -46,10 +47,10 @@ who an i ?==WYH==
 ### 👇 在下方开始制卡：
 
 **1. 概念填空：**
-- 
+- WYH
 
 **2. 截图/问答：**
-- 
+- WYH
 #flashcard
 
 ---
