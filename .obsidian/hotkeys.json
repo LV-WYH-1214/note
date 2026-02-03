@@ -7,7 +7,14 @@
       "key": "T"
     }
   ],
-  "editor:save-file": [],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
   "media-extended:toggle-play": [
     {
       "modifiers": [
