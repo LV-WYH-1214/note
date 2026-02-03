@@ -34,6 +34,8 @@ Target Deck: 通用
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
 
+==WYH==
+
 ---
 
 ## ⚡️ 闪念制卡 (Anki Flashcards)
