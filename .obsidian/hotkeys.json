@@ -16,20 +16,28 @@
       "key": "P"
     }
   ],
-  "media-extended:copy-screenshot": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "S"
-    }
-  ],
   "media-extended:forward-5s": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "."
+      "key": "]"
+    }
+  ],
+  "media-extended:rewind-5s": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    }
+  ],
+  "media-extended:take-screenshot": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
     }
   ]
 }
