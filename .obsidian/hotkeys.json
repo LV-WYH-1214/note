@@ -39,7 +39,7 @@
       "key": "["
     }
   ],
-  "media-extended:save-screenshot": [
+  "media-extended:take-screenshot": [
     {
       "modifiers": [
         "Alt"
