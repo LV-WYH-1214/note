@@ -1,12 +1,12 @@
 {
   "settings": {
     "CUSTOM_REGEXPS": {
-      "图片遮盖": "",
-      "填空题": "",
-      "问答题": "",
-      "问答题（可选附翻转卡片）": "",
-      "问答题（输入答案）": "",
-      "问答题（附翻转卡片）": ""
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": "",
+      "Image Occlusion": ""
     },
     "FILE_LINK_FIELDS": {
       "图片遮盖": "遮盖",
@@ -67,7 +67,7 @@
     "templete/错题.md": "6b181b591b9dd981deb024187d13183f",
     "templete/康奈尔笔记法.md": "1102b20197d4d8ef4fa341b2aa54328b",
     "templete/原子知识点.md": "f9fae7d56a7b2d5864a570504ebd6070",
-    "Untitled.md": "54c6f974b78ce459f18f6df4819b5d60"
+    "Untitled.md": "9429cd6b8a32e29804f1298023362221"
   },
   "fields_dict": {
     "图片遮盖": [
