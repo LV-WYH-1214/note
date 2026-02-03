@@ -10,7 +10,7 @@
   "playback.track.default-languages": [],
   "playback.screenshot.format": "image/jpeg",
   "playback.screenshot.quality": 0.8,
-  "playback.screenshot.folder-path": null,
+  "playback.screenshot.folder-path": "/Attachments",
   "note.embed.load-strategy": "eager",
   "link.click-behavior": "split",
   "link.altclick-behavior": "window",
@@ -24,7 +24,7 @@
   "note.template.screenshot": "\n- !{{SCREENSHOT}} {{TIMESTAMP}} ",
   "note.template.screenshot-embed": "{{TITLE}}{{DURATION}}|50",
   "note.template.insert-at": "after-cursor",
-  "media-lib.folder-path": "assets",
+  "media-lib.folder-path": "Attachments",
   "cache.cover-image.max-size-mb": 100,
   "note.embed.handle-hosted": true,
   "note.embed.handle-direct-url": true
