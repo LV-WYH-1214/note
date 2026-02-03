@@ -24,7 +24,7 @@
   "note.template.screenshot": "\n- !{{SCREENSHOT}} {{TIMESTAMP}} ",
   "note.template.screenshot-embed": "{{TITLE}}{{DURATION}}|50",
   "note.template.insert-at": "after-cursor",
-  "media-lib.folder-path": "media-lib",
+  "media-lib.folder-path": "assets",
   "cache.cover-image.max-size-mb": 100,
   "note.embed.handle-hosted": true,
   "note.embed.handle-direct-url": true
