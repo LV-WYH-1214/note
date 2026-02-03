@@ -22,18 +22,18 @@
       "daily": "",
       "download": "",
       "templete": "",
-      "密码": "",
-      "密码/assets": "",
-      "密码/assets/Simpread": ""
+      "密码（key）": "",
+      "密码（key）/assets": "",
+      "密码（key）/assets/Simpread": ""
     },
     "FOLDER_TAGS": {
       "code": "",
       "daily": "",
       "download": "",
       "templete": "",
-      "密码": "",
-      "密码/assets": "",
-      "密码/assets/Simpread": ""
+      "密码（key）": "",
+      "密码（key）/assets": "",
+      "密码（key）/assets/Simpread": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -63,11 +63,12 @@
   },
   "Added Media": [],
   "File Hashes": {
-    "密码/Simpread.md": "18a725bfacacbc9d3522aae8feb2f33c",
+    "密码（key）/Simpread.md": "18a725bfacacbc9d3522aae8feb2f33c",
     "templete/康奈尔笔记法.md": "1102b20197d4d8ef4fa341b2aa54328b",
     "templete/错题.md": "6b181b591b9dd981deb024187d13183f",
     "templete/原子知识点.md": "f9fae7d56a7b2d5864a570504ebd6070",
-    "Untitled.md": "9429cd6b8a32e29804f1298023362221"
+    "Untitled.md": "9429cd6b8a32e29804f1298023362221",
+    "密码/Simpread.md": "18a725bfacacbc9d3522aae8feb2f33c"
   },
   "fields_dict": {
     "Basic": [
