@@ -1,5 +1,5 @@
 ---
-created: 2026-02-03 22:32
+created: 2026-02-04 10:13
 course: 通用
 tags:
   - study
@@ -11,7 +11,7 @@ Target Deck: 通用
 # Untitled
 
 
-**📅 日期：** 2026-02-03
+**📅 日期：** 2026-02-04
 **🏫 课程：** [[通用]]
 **🏷️ 标签：** #study #note
 
@@ -23,7 +23,7 @@ Target Deck: 通用
 > 2. **Alt+T**：插入时间戳 | **Alt+S**：截图并插入
 > 3. **Ctrl+P** -> `Sync with Anki`：一键同步
 
-**视频源：** ![](https://www.youtube.com/watch?v=aH9ctWaxGgQ)
+**视频源：** ![[Introducing the Codex app [HFM3se4lNiw]]]
 
 ---
 
@@ -33,7 +33,6 @@ Target Deck: 通用
 
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
-
 
 ---
 
