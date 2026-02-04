@@ -23,7 +23,7 @@ Target Deck: 通用
 > 2. **Alt+T**：插入时间戳 | **Alt+S**：截图并插入
 > 3. **Ctrl+P** -> `Sync with Anki`：一键同步
 
-**视频源：** ![[Introducing the Codex app [HFM3se4lNiw]]]
+**视频源：** ![Introducing the Codex app [HFM3se4lNiw]](download/video/Introducing%20the%20Codex%20app%20[HFM3se4lNiw].mp4)]
 
 ---
 
