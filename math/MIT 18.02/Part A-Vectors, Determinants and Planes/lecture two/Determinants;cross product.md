@@ -23,7 +23,7 @@ Target Deck: math
 > 2. **Alt+T**：插入时间戳 | **Alt+S**：截图并插入
 > 3. **Ctrl+P** -> `Sync with Anki`：一键同步
 
-**视频源：** ![](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4)
+**视频源：** 
 
 ---
 
