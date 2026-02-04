@@ -31,7 +31,7 @@ Target Deck: Math
 > [!info] 文档预览
 > 如果安装了 **Annotator** 插件，请点击右上角 `More Options` -> `Annotate` 进行批注。
 
-![](../../../download/PDF/38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf)kk
+![](../../../download/PDF/38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf)kkbn  
 
 ---
 
