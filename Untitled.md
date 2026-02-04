@@ -48,3 +48,16 @@ Target Deck: 通用
 ## 💡 总结 (Summary)
 > [!summary] 
 > 用一句话总结这篇笔记的核心内容。
+
+>%%
+>```annotation-json
+>{"created":"2026-02-04T03:38:46.213Z","updated":"2026-02-04T03:38:46.213Z","document":{"title":"18.02SC Notes: Vectors","link":[{"href":"urn:x-pdf:e066cb970f57617a9a436bf57642a197"},{"href":"vault:/download/PDF/38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf"}],"documentFingerprint":"e066cb970f57617a9a436bf57642a197"},"uri":"vault:/download/PDF/38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf","target":[{"source":"vault:/download/PDF/38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf","selector":[{"type":"TextPositionSelector","start":4,"end":11},{"type":"TextQuoteSelector","exact":"ectors ","prefix":"%75%100%125%150%200%300%400%�� V","suffix":" Our very first topic is unusual"}]}]}
+>```
+>%%
+>*%%PREFIX%%%75%100%125%150%200%300%400%�� V%%HIGHLIGHT%% ==ectors== %%POSTFIX%%Our very first topic is unusual*
+>%%LINK%%[[#^47v4k90c9m2|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^47v4k90c9m2
