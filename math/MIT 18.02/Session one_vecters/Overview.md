@@ -1,10 +1,11 @@
 ---
-created: 2026-02-04 11:46
+created: 2026-02-04 12:06
 course: Math
 tags:
   - study
   - note
   - video-learning
+annotation-target: 38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf
 ---
 Target Deck: Math
 
@@ -31,7 +32,7 @@ Target Deck: Math
 > [!info] 文档预览
 > 如果安装了 **Annotator** 插件，请点击右上角 `More Options` -> `Annotate` 进行批注。
 
-![](../../../download/PDF/38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf)
+![[38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf#height=600]]
 
 ---
 
