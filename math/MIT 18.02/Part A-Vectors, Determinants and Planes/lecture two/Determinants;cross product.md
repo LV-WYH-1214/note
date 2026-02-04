@@ -47,6 +47,7 @@ Target Deck: math
 - [10:17](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=10:17.83) the forth application:Compute Area
 the determinant of **A**
 - [25:01](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=25:01.98) Determinant in space 
+- [29:42](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=29:42.21) theorem 
 ---
 
 ## 💡 总结 (Summary)
