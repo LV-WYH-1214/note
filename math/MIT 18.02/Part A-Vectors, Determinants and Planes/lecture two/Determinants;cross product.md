@@ -50,6 +50,8 @@ the determinant of **A**
 - [29:42](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=29:42.21) theorem 
 ![](assets/Determinants;cross%20product/file-20260204184636484.png)
 - [33:40](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=33:40.89) Cross Product 
+![](assets/Determinants;cross%20product/file-20260204194820521.png)
+
 ---
 
 ## 💡 总结 (Summary)
