@@ -54,7 +54,8 @@ the determinant of **A**
 
 - [36:48](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=36:48.90) Theore above
 - [47:33](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=47:33.39) another look at volume
-- 
+![](assets/Determinants;cross%20product/file-20260204200950986.png)
+
 ---
 
 ## 💡 总结 (Summary)
