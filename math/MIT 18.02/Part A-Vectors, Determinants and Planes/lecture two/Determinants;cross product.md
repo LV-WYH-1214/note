@@ -43,8 +43,7 @@ Target Deck: math
 <% tp.file.cursor() %>
 
 - [01:08](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=01:08.17) review
-- [03:07](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=03:07.60) the third application: Component on unit vector
-- 
+- [03:07](../../../../download/video/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%202：%20Determinants;%20cross%20product%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=03:07.60) the third application: Component on unit vectoe
 ---
 
 ## 💡 总结 (Summary)
