@@ -57,7 +57,7 @@ Target Deck: math
 	  
 	 [28:16](../../../../download/video/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=28:16.07) NOTE!!! 
 	 [29:17](../../../../download/video/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=29:17.22) Identity Matrix ==**I**== 
-	 
+	  
 ---
 
 ## 💡 总结 (Summary)
