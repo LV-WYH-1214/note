@@ -44,6 +44,7 @@ Target Deck: math
 
 - [00:33](../../../../download/video/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=00:33.40) review Ceoss-priduct
 - [03:42](../../../../download/video/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=03:42.94) 
+********![](assets/Matrices;%20inverse%20matrices/file-20260205091048527.png)
 ---
 
 ## 💡 总结 (Summary)
