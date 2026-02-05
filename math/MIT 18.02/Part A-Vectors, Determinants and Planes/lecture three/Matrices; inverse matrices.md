@@ -50,7 +50,9 @@ Target Deck: math
 - [05:30](../../../../download/video/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=05:30.27) one important application of cross product
 	to conclude whether the point is on the plane
 - [09:29](../../../../download/video/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=09:29.39) another solution: use "Normal Vector"
-	normal vecotor == cross product 
+	normal vecotor == cross product of two vectors on the plane 
+	[13:00](../../../../download/video/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=13:00.11) use the ==triple product==
+	
 ---
 
 ## 💡 总结 (Summary)
