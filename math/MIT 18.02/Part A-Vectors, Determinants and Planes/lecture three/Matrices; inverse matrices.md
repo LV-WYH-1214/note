@@ -42,6 +42,7 @@ Target Deck: math
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
 
+- [00:33](../../../../download/video/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%203：%20Matrices;%20inverse%20matrices%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=00:33.40) review Ceoss-product
 ---
 
 ## 💡 总结 (Summary)
