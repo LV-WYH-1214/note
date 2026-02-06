@@ -47,6 +47,7 @@ Target Deck: math
 ![](assets/Lec%204_Square%20systems;%20equations%20of%20planes/file-20260206100003168.png)
 
 
+- [47:52](../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=47:52.83) general case
 ---
 
 ## 💡 总结 (Summary)
