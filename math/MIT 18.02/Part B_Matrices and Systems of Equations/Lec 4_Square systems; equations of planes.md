@@ -44,6 +44,7 @@ Target Deck: math
 
 - [00:30](../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=00:30.37) epquations of plane
 - [00:57](../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=00:57.80) Recall
+![](assets/Lec%204_Square%20systems;%20equations%20of%20planes/file-20260206100003168.png)
 
 ---
 
