@@ -31,6 +31,10 @@ Target Deck: math
 
 ---
 ![](../../../download/PDF/Parametric%20Curves.pdf)
+___ 
+![](../../../download/PDF/Cusp%20on%20the%20cycloid.pdf)
+___ 
+
 ## 🧠 核心概念 (Cues)
 > *左侧栏：记录关键问题，复习时遮挡右侧*
 - [ ] 
