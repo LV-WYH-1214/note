@@ -41,7 +41,7 @@ Target Deck: math
 
 - [01:51](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=01:51.58) Equation OF Lines
 
-- [11:21](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=11:21.21) application
+- [11:21](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=11:21.21) Application
 ---
 
 ## 💡 总结 (Summary)
