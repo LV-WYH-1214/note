@@ -28,8 +28,9 @@ Target Deck: math
 
 ![](../../../download/PDF/Parametric%20equations%20of%20lines.pdf)
 
----
 
+---
+![](../../../download/PDF/Parametric%20Curves.pdf)
 ## 🧠 核心概念 (Cues)
 > *左侧栏：记录关键问题，复习时遮挡右侧*
 - [ ] 
