@@ -25,10 +25,8 @@ Target Deck: math
 ---
 
 ## 📄 参考文档 (PDF)
-> [!info] 文档预览
-> 如果安装了 **Annotator** 插件，请点击右上角 `More Options` -> `Annotate` 进行批注。
 
-> *本次学习未关联 PDF*
+![](../../../download/PDF/Parametric%20equations%20of%20lines.pdf)
 
 ---
 
@@ -41,6 +39,12 @@ Target Deck: math
 
 - [01:51](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=01:51.58) Equation OF Lines
 - [11:21](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=11:21.21) Application:A line insert a plane
+- ![](assets/Parametric%20equations%20for%20lines%20and%20curves/file-20260208123848143.png)
+- ![](assets/Parametric%20equations%20for%20lines%20and%20curves/file-20260208123919675.png)
+- ![](assets/Parametric%20equations%20for%20lines%20and%20curves/file-20260208123954774.png)
+- ![](assets/Parametric%20equations%20for%20lines%20and%20curves/file-20260208124004524.png)
+- ![](assets/Parametric%20equations%20for%20lines%20and%20curves/file-20260208124016875.png)
+- 
 ---
 
 ## 💡 总结 (Summary)
