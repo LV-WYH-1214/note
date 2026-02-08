@@ -8,8 +8,6 @@ tags:
 ---
 Target Deck: math
 
-# Equations of Lines
-
 
 **📅 日期：** 2026-02-08
 **🏫 课程：** [[math]]
@@ -23,8 +21,7 @@ Target Deck: math
 > 2. **Alt+T**：插入时间戳 | **Alt+S**：截图并插入
 > 3. **Ctrl+P** -> `Sync with Anki`：一键同步
 
-**视频源：** > *本次学习未关联视频*
-
+![](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4)
 ---
 
 ## 📄 参考文档 (PDF)
@@ -42,6 +39,7 @@ Target Deck: math
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
 
+- [01:51](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=01:51.58) Equation OF Lines
 ---
 
 ## 💡 总结 (Summary)
