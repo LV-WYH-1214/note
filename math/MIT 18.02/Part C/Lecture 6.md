@@ -41,6 +41,22 @@ Target Deck: math
 
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
+- 00:00 Intro
+- 04:42 Velocity vector
+- 06:48 Cycloid example
+- 08:18 Vector example
+- 08:50 Speed
+- 10:48 Acceleration
+- 12:15 Acceleration along the line
+- 14:15 Length of a vector
+- 16:10 Arc length
+- 17:58 Arc length and time
+- 19:36 Unit tangent vector
+- 24:36 DRDs
+- 29:34 Keplers second law
+- 34:42 Newtons law
+- 36:18 Vectors
+- 40:34 Plane
 
 ---
 
