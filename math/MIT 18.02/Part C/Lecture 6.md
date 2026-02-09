@@ -41,22 +41,23 @@ Target Deck: math
 
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
-- 00:00 Intro
-- 04:42 Velocity vector
-- 06:48 Cycloid example
-- 08:18 Vector example
-- 08:50 Speed
-- 10:48 Acceleration
-- 12:15 Acceleration along the line
-- 14:15 Length of a vector
-- 16:10 Arc length
-- 17:58 Arc length and time
-- 19:36 Unit tangent vector
-- 24:36 DRDs
-- 29:34 Keplers second law
-- 34:42 Newtons law
-- 36:18 Vectors
-- 40:34 Plane
+
+-  [[Lec 6 Velocity acceleration Keplers second law.mp4#t=00:00|00:00]] Intro
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=05:42|05:42]] Velocity vector
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=07:48|07:48]] Cycloid example
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=08:18|08:18]] Vector example
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=09:50|09:50]] Speed
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=11:48|11:48]] Acceleration
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=12:15|12:15]] Acceleration along the line
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=14:15|14:15]] Length of a vector
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=16:10|16:10]] Arc length
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=18:58|18:58]] Arc length and time
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=20:36|20:36]] Unit tangent vector
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=25:36|25:36]] DRDs
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=30:34|30:34]] Keplers second law
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=35:42|35:42]] Newtons law
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=36:18|36:18]] Vectors
+- [[Lec 6 Velocity acceleration Keplers second law.mp4#t=41:34|41:34]] Plane
 
 ---
 
