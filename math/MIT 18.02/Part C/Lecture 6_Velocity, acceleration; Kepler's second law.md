@@ -38,7 +38,8 @@ Target Deck: math
 ## 🧠 核心概念 (Cues)
 > *左侧栏：记录关键问题，复习时遮挡右侧*
 - [ ] 
-
+![](assets/Lecture%206_Velocity,%20acceleration;%20Kepler's%20second%20law/file-20260209115545492.png)
+![](assets/Lecture%206_Velocity,%20acceleration;%20Kepler's%20second%20law/file-20260209115551836.png)![](assets/Lecture%206_Velocity,%20acceleration;%20Kepler's%20second%20law/file-20260209115554586.png)![](assets/Lecture%206_Velocity,%20acceleration;%20Kepler's%20second%20law/file-20260209115558189.png)
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
 - [[Lec 6： Velocity, acceleration; Kepler's second law ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=00:00|00:00]] Intro
