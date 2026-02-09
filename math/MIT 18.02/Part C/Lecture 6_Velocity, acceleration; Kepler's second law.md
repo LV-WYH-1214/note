@@ -32,6 +32,7 @@ Target Deck: math
 > 如果安装了 **Annotator** 插件，请点击右上角 `More Options` -> `Annotate` 进行批注。
 
 > *本次学习未关联 PDF*
+![](../../../download/PDF/Velocity%20and%20acceleration.pdf)
 
 ---
 
