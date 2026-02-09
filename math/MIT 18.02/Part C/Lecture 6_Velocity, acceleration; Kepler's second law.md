@@ -49,7 +49,7 @@ Target Deck: math
 - [[Lec 6： Velocity, acceleration; Kepler's second law ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=10:48|10:48]] Acceleration
 - [[Lec 6： Velocity, acceleration; Kepler's second law ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=12:15|12:15]] Acceleration along the line
 - [[Lec 6： Velocity, acceleration; Kepler's second law ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=14:15|14:15]] Length of a vector
-- [[Lec 6： Velocity, acceleration; Kepler's second law ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=16:10|16:10]] Arc length---length you have travel around the carve
+- [[Lec 6： Velocity, acceleration; Kepler's second law ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=16:10|16:10]] Arc length---length you have travel around the c
 - [[Lec 6： Velocity, acceleration; Kepler's second law ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=17:58|17:58]] Arc length and time
 - [[Lec 6： Velocity, acceleration; Kepler's second law ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=19:36|19:36]] Unit tangent vector
 - [[Lec 6： Velocity, acceleration; Kepler's second law ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=24:36|24:36]] DRDs
