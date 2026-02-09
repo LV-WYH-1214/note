@@ -33,6 +33,7 @@ Target Deck: math
 
 > *本次学习未关联 PDF*
 ![](../../../download/PDF/Velocity%20and%20acceleration.pdf)
+![](../../../download/PDF/Kepler’s%20Second%20Law.pdf)
 
 ---
 
