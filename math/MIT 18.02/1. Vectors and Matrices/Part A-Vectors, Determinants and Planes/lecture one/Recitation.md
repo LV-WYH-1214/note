@@ -23,7 +23,7 @@ Target Deck: math
 > 2. **Alt+T**：插入时间戳 | **Alt+S**：截图并插入
 > 3. **Ctrl+P** -> `Sync with Anki`：一键同步
 
-**视频源：** ![Coordinate free proofs： centroid of a triangle ｜ MIT 18.02SC Multivariable Calculus, Fall 2010](../../../../download/video/Coordinate%20free%20proofs：%20centroid%20of%20a%20triangle%20｜%20MIT%2018.02SC%20Multivariable%20Calculus,%20Fall%202010/Coordinate%20free%20proofs：%20centroid%20of%20a%20triangle%20｜%20MIT%2018.02SC%20Multivariable%20Calculus,%20Fall%202010.mp4)
+**视频源：** ![Coordinate free proofs： centroid of a triangle ｜ MIT 18.02SC Multivariable Calculus, Fall 2010](../../../../../download/video/Coordinate%20free%20proofs：%20centroid%20of%20a%20triangle%20｜%20MIT%2018.02SC%20Multivariable%20Calculus,%20Fall%202010/Coordinate%20free%20proofs：%20centroid%20of%20a%20triangle%20｜%20MIT%2018.02SC%20Multivariable%20Calculus,%20Fall%202010.mp4)
 
 ---
 

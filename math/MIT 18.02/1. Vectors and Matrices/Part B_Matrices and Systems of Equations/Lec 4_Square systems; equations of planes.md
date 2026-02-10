@@ -23,7 +23,7 @@ Target Deck: math
 > 2. **Alt+T**：插入时间戳 | **Alt+S**：截图并插入
 > 3. **Ctrl+P** -> `Sync with Anki`：一键同步
 
-**视频源：** ![](../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4)
+**视频源：** ![](../../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4)
 
 ---
 
@@ -42,12 +42,12 @@ Target Deck: math
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
 
-- [00:30](../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=00:30.37) epquations of plane
-- [00:57](../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=00:57.80) Recall
+- [00:30](../../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=00:30.37) epquations of plane
+- [00:57](../../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=00:57.80) Recall
 ![](assets/Lec%204_Square%20systems;%20equations%20of%20planes/file-20260206100003168.png)
 
 
-- [47:52](../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=47:52.83) general case
+- [47:52](../../../../download/video/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%204：%20Square%20systems;%20equations%20of%20planes%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=47:52.83) general case
 - 这是一份基于 MIT 18.02 多变量微积分课程 Lecture 4 讲座内容的详细笔记。
 
 ### **MIT 18.02 Lecture 4: 方程组与平面方程 (Square Systems; Equations of Planes)**

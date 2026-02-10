@@ -21,18 +21,18 @@ Target Deck: math
 > 2. **Alt+T**：插入时间戳 | **Alt+S**：截图并插入
 > 3. **Ctrl+P** -> `Sync with Anki`：一键同步
 
-![](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4)
+![](../../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4)
 ---
 
 ## 📄 参考文档 (PDF)
 
-![](../../../download/PDF/Parametric%20equations%20of%20lines.pdf)
+![](../../../../download/PDF/Parametric%20equations%20of%20lines.pdf)
 
 
 ---
-![](../../../download/PDF/Parametric%20Curves.pdf)
+![](../../../../download/PDF/Parametric%20Curves.pdf)
 ___ 
-![](../../../download/PDF/Cusp%20on%20the%20cycloid.pdf)
+![](../../../../download/PDF/Cusp%20on%20the%20cycloid.pdf)
 ___ 
 
 ## 🧠 核心概念 (Cues)
@@ -42,8 +42,8 @@ ___
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
 
-- [01:51](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=01:51.58) Equation OF Lines
-- [11:21](../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=11:21.21) Application:A line insert a plane
+- [01:51](../../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=01:51.58) Equation OF Lines
+- [11:21](../../../../download/video/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%205：%20Parametric%20equations%20for%20lines%20and%20curves%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=11:21.21) Application:A line insert a plane
 - ![](assets/Lecture%205-Parametric%20equations%20for%20lines%20and%20curves/file-20260208220855960.png)
 - ![](assets/Lecture%205-Parametric%20equations%20for%20lines%20and%20curves/file-20260208220855963.png)
 - ![](assets/Lecture%205-Parametric%20equations%20for%20lines%20and%20curves/file-20260208220855965.png)
