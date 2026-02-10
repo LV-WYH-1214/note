@@ -43,9 +43,9 @@ Target Deck: math
 <% tp.file.cursor() %>
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=00:00|00:00]] <Untitled Chapter 1>
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=03:19|03:19]] form a cross product
-- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=04:43|04:43]] finding the normal vector to a plane
-- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=05:38|05:38]] find a normal vector to a plane
-- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=06:49|06:49]] parenting equation of a line
+	- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=04:43|04:43]] finding the normal vector to a plane
+	- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=05:38|05:38]] find a normal vector to a plane
+	- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=06:49|06:49]] parenting equation of a line
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=07:06|07:06]] express the burnet equations for the motion of a point
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=12:01|12:01]] rotate a vector in the plane by 90 degrees
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=28:32|28:32]] solve a linear system
