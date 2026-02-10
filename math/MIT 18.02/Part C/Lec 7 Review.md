@@ -57,7 +57,7 @@ Target Deck: math
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=41:49|41:49]] taking the cross product between two of the normal vectors
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=44:14|44:14]] find the area of a triangle
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=47:26|47:26]] find the derivative of r dot r
-- 
+-   
 
 ---
 
