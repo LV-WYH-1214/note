@@ -48,7 +48,8 @@ Target Deck: math
 	- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=06:49|06:49]] parenting equation of a line
 	- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=07:06|07:06]] express the burnet equations for the motion of a point
 - [09:23](../../../download/video/Lec%207：%20Review%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%207：%20Review%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=09:23.23) Matrices,linear system,interting matrices
-- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=12:01|12:01]] rotate a vector in the plane by 90 degrees
+	- [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=12:01|12:01]] rotate a vector in the plane by 90 degrees
+- [12:45](../../../download/video/Lec%207：%20Review%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%207：%20Review%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4#t=12:45.74) Finding parametric equations
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=28:32|28:32]] solve a linear system
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=32:15|32:15]] look at m x equals 0
 - [[Lec 7： Review ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=35:24|35:24]] perpendicular to these two given vectors
