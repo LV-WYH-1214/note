@@ -58,6 +58,7 @@ Target Deck: math
 - [[Lec 9： Max-min problems; least squares ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=45:17|45:17]] Moore's Law
 - [[Lec 9： Max-min problems; least squares ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=46:56|46:56]] Exponential Fit
 
+
 ---
 
 ## 💡 总结 (Summary)
