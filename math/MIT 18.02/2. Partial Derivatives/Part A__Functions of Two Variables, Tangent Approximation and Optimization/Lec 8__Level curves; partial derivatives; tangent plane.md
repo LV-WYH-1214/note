@@ -33,6 +33,9 @@ Target Deck: math
 
 > *本次学习未关联 PDF*
 ![](../../../../download/PDF/Functions%20of%20two%20variables.pdf)
+![](../../../../download/PDF/Gallery%20of%20graphs.pdf)
+
+
 ---
 
 ## 🧠 核心概念 (Cues)
