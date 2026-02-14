@@ -429,7 +429,7 @@
   },
   "continuationOptions": {
     "continuationModelId": "anthropic/claude-3.5-sonnet",
-    "enableTabCompletion": true,
+    "enableTabCompletion": false,
     "tabCompletionModelId": "deepseek/deepseek-chat",
     "tabCompletionOptions": {
       "idleTriggerEnabled": false,

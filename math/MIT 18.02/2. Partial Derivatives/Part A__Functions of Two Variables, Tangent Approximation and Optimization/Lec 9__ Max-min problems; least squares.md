@@ -30,8 +30,10 @@ Target Deck: math
 ## 📄 参考文档 (PDF)
 > [!info] 文档预览
 > 如果安装了 **Annotator** 插件，请点击右上角 `More Options` -> `Annotate` 进行批注。
+![](../../../../download/PDF/The%20Tangent%20Approximation.pdf)
 
-> *本次学习未关联 PDF*
+
+![](../../../../download/PDF/The%20Tangent%20approximation%202.pdf)
 
 ---
 
