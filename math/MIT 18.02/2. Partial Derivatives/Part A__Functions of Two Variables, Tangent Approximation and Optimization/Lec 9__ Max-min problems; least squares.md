@@ -34,6 +34,8 @@ Target Deck: math
 
 
 ![](../../../../download/PDF/The%20Tangent%20approximation%202.pdf)
+
+![](../../../../download/PDF/Critical%20Points.pdf)
 ---
 
 ## 🧠 核心概念 (Cues)
