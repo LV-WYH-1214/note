@@ -64,6 +64,9 @@ Target Deck: math
 - [[Lec 9： Max-min problems; least squares ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=46:56|46:56]] Exponential Fit
 ![The Tangent Approximation, p.1](download/PDF/The%20Tangent%20Approximation.pdf#page=1&rect=101,166,458,235&color=yellow)
 ![The Tangent Approximation, p.3](download/PDF/The%20Tangent%20Approximation.pdf#page=3&rect=97,476,517,526&color=yellow)
+![Least Squares Interpolation, p.1](download/PDF/Least%20Squares%20Interpolation.pdf#page=1&rect=89,335,418,380)
+
+
 
 ---
 
