@@ -65,7 +65,7 @@ Target Deck: math
 ![The Tangent Approximation, p.1](download/PDF/The%20Tangent%20Approximation.pdf#page=1&rect=101,166,458,235&color=yellow)
 ![The Tangent Approximation, p.3](download/PDF/The%20Tangent%20Approximation.pdf#page=3&rect=97,476,517,526&color=yellow)
 ![Least Squares Interpolation, p.1](download/PDF/Least%20Squares%20Interpolation.pdf#page=1&rect=89,335,418,380)
-
+![Least Squares Interpolation, p.2](download/PDF/Least%20Squares%20Interpolation.pdf#page=2&rect=210,614,411,674&color=red)
 
 
 ---
