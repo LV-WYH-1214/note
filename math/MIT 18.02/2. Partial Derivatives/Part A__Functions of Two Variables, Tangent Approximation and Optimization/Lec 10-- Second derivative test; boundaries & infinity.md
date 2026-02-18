@@ -42,6 +42,9 @@ Target Deck: math
 - [[Lec 10： Second derivative test; boundaries & infinity ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=47:14|47:14]] First Derivatives
 - [[Lec 10： Second derivative test; boundaries & infinity ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=49:48|49:48]] Compute the Second Partial Derivatives
 ![Second Derivative Test, p.1](download/PDF/Second%20Derivative%20Test.pdf#page=1&rect=90,76,529,391&color=yellow)
+![Second Derivative Test, p.2](download/PDF/Second%20Derivative%20Test.pdf#page=2&rect=98,85,494,187&color=yellow)
+
+
 ---
 
 ## 💡 总结 (Summary)
