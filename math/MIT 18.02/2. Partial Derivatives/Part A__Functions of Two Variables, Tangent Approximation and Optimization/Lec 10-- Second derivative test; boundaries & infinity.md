@@ -20,7 +20,7 @@ Target Deck: math
 
 ![](../../../../download/video/Lec%2010：%20Second%20derivative%20test;%20boundaries%20&%20infinity%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%2010：%20Second%20derivative%20test;%20boundaries%20&%20infinity%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4)
 
-
+![](../../../../download/PDF/Second%20Derivative%20Test.pdf)
 ---
 
 ## 🧠 核心概念 (Cues)
