@@ -21,7 +21,17 @@ Target Deck: math
 
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
-
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=00:00|00:00]] <Untitled Chapter 1>
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=01:36|01:36]] Implicit Differentiation
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=04:18|04:18]] Total D Control
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=05:52|05:52]] Pitfall To Avoid
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=10:23|10:23]] Infinitesimal Rate of Change
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=11:31|11:31]] Chain Rule
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=20:46|20:46]] Example
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=27:18|27:18]] Justify the Product and Quotient Rules
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=29:09|29:09]] Quotient Rule
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=31:32|31:32]] Chain Rules with More Variables
+- [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=49:28|49:28]] The Gradient Vector
 
 ---
 
