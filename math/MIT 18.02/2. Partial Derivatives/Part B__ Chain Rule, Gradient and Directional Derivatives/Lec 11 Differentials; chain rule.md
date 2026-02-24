@@ -27,6 +27,7 @@ Target Deck: math
 - [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=05:52|05:52]] Pitfall To Avoid
 - [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=10:23|10:23]] Infinitesimal Rate of Change
 - [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=11:31|11:31]] Chain Rule
+	![Chain rule, p.1](download/PDF/Chain%20rule.pdf#page=1&rect=60,413,518,526&color=yellow)
 - [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=20:46|20:46]] Example
 - [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=27:18|27:18]] Justify the Product and Quotient Rules
 - [[Lec 11： Differentials; chain rule ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=29:09|29:09]] Quotient Rule
