@@ -18,6 +18,7 @@ Target Deck: math
 ---
 
  ![](../../../../download/video/Lec%2011：%20Differentials;%20chain%20rule%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%2011：%20Differentials;%20chain%20rule%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4)
+![](../../../../download/PDF/Chain%20Rule%20and%20Total%20Differentials.pdf)
 ![](../../../../download/PDF/Chain%20rule.pdf)
 ## 📝 笔记内容 (Notes)
 <% tp.file.cursor() %>
