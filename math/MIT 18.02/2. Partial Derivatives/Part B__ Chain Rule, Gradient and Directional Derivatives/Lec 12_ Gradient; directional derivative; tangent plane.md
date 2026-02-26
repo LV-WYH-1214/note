@@ -19,6 +19,8 @@ Target Deck: math
 ![](../../../../download/video/Lec%2012：%20Gradient;%20directional%20derivative;%20tangent%20plane%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%2007/Lec%2012：%20Gradient;%20directional%20derivative;%20tangent%20plane%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%2007.mp4)
 ![](../../../../download/PDF/Gradient--%20definition%20and%20properties.pdf)
 ![](../../../../download/PDF/Gradient--%20proof%20that%20it%20is%20perpendicular%20to%20level%20curves%20and.pdf)
+![](../../../../download/PDF/Directional%20Derivatives.pdf)
+
 ---
 
 ## 🧠 核心概念 (Cues)
