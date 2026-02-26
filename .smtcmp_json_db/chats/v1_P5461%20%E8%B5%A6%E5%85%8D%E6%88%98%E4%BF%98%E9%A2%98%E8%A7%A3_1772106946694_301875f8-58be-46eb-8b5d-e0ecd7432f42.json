@@ -113,10 +113,184 @@
       "id": "1a34bbf7-ba20-4947-b7aa-226ac5bfa362",
       "mentionables": [],
       "reasoningLevel": "off"
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"code/wrong/luogu/# P5461 赦免战俘.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n\n### 参考代码（C）\n```c\n#include <stdio.h>\n#include <math.h>\n\nint a[1050][1050]; // 2^10 = 1024，稍微开大一点\n\nvoid dfs(int x, int y, int len) {\n    if (len == 1) return;\n    int half = len / 2;\n    // 赦免左上角区域\n    for (int i = x; i < x + half; i++) {\n        for (int j = y; j < y + half; j++) {\n            a[i][j] = 0;\n        }\n    }\n    // 递归处理剩下三个区域\n    dfs(x, y + half, half);         // 右上\n    dfs(x + half, y, half);         // 左下\n    dfs(x + half, y + half, half);  // 右下\n}\n\nint main() {\n    int n;\n    scanf(\"%d\", &n);\n    int size = (int)pow(2, n);\n    // 初始化全部为1（未被赦免）\n    for (int i = 0; i < size; i++) {\n        for (int j = 0; j < size; j++) {\n            a[i][j] = 1;\n        }\n    }\n    dfs(0, 0, size);\n    // 输出\n    for (int i = 0; i < size; i++) {\n        for (int j = 0; j < size; j++) {\n            printf(\"%d\", a[i][j]);\n            if (j != size - 1) printf(\" \");\n        }\n        printf(\"\\n\");\n    }\n    return 0;\n}\n```\n\n<!-- ... existing content ... -->\n</smtcmp_block>",
+      "id": "bcb051ea-4773-42e0-9a25-5578a9ffbb74",
+      "metadata": {
+        "model": {
+          "providerType": "deepseek",
+          "providerId": "deepseek",
+          "id": "deepseek/deepseek-chat",
+          "model": "deepseek-chat",
+          "enable": true
+        },
+        "generationState": "completed",
+        "usage": {
+          "prompt_tokens": 1826,
+          "completion_tokens": 408,
+          "total_tokens": 2234,
+          "prompt_tokens_details": {
+            "cached_tokens": 256
+          },
+          "prompt_cache_hit_tokens": 256,
+          "prompt_cache_miss_tokens": 1570
+        },
+        "durationMs": 9738
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@# P5461 赦免战俘.md (6 字符)",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "# P5461 赦免战俘.md (6 字符)",
+                  "mentionable": {
+                    "type": "block",
+                    "content": " [[递归]] [[分治]] [[模拟]]",
+                    "file": "code/wrong/luogu/# P5461 赦免战俘.md",
+                    "startLine": 5,
+                    "endLine": 5,
+                    "source": "selection"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " [[递归]] [[分治]] [[模拟]] ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "```code/wrong/luogu/# P5461 赦免战俘.md\n [[递归]] [[分治]] [[模拟]]\n```\n\n\n @# P5461 赦免战俘.md (6 字符) [[递归]] [[分治]] [[模拟]] \n\n"
+        }
+      ],
+      "id": "f42d4088-e61e-41cd-a1ea-05423687b65a",
+      "mentionables": [
+        {
+          "type": "block",
+          "content": " [[递归]] [[分治]] [[模拟]]",
+          "file": "code/wrong/luogu/# P5461 赦免战俘.md",
+          "startLine": 5,
+          "endLine": 5,
+          "source": "selection"
+        }
+      ],
+      "reasoningLevel": "off"
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"code/wrong/luogu/# P5461 赦免战俘.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n**🧠 知识点：** [[递归]] [[分治]] [[模拟]]\n<!-- ... existing content ... -->\n</smtcmp_block>",
+      "id": "c32a5946-4730-41b8-a6a9-b4a2de0bc374",
+      "metadata": {
+        "model": {
+          "providerType": "deepseek",
+          "providerId": "deepseek",
+          "id": "deepseek/deepseek-chat",
+          "model": "deepseek-chat",
+          "enable": true
+        },
+        "generationState": "completed",
+        "usage": {
+          "prompt_tokens": 2295,
+          "completion_tokens": 63,
+          "total_tokens": 2358,
+          "prompt_tokens_details": {
+            "cached_tokens": 2176
+          },
+          "prompt_cache_hit_tokens": 2176,
+          "prompt_cache_miss_tokens": 119
+        },
+        "durationMs": 2602
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "给我这三个知识点的具体内容",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n给我这三个知识点的具体内容\n\n"
+        }
+      ],
+      "id": "1b58a9a1-3527-4005-9ed9-91bf13320c6d",
+      "mentionables": [],
+      "reasoningLevel": "off"
     }
   ],
   "createdAt": 1772106541121,
-  "updatedAt": 1772106650702,
+  "updatedAt": 1772106946694,
   "schemaVersion": 1,
   "overrides": null,
   "reasoningLevel": "off"
