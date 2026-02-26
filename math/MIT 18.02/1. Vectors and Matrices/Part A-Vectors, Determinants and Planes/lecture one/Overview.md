@@ -1,6 +1,6 @@
 ---
 created: 2026-02-04 12:06
-course: Math
+course: math
 tags:
   - "#math"
 annotation-target: 38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf
@@ -11,7 +11,7 @@ Target Deck: Math
 
 
 **📅 日期：** 2026-02-04
-**🏫 课程：** [[Math]]
+**🏫 课程：** [[math]]
 **🏷️ 标签：** #study #note
 
 ---
