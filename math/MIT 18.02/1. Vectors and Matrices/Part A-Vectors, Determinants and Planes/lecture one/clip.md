@@ -2,9 +2,8 @@
 created: 2026-02-04 13:50
 course: 通用
 tags:
-  - study
   - note
-  - video-learning
+  - "#math"
 annotation-target: Lec 1： Dot product ｜ MIT 18.02 Multivariable Calculus, Fall 2007 [PxCxlsl_YwY].mp4.pdf
 ---
 Target Deck: 通用

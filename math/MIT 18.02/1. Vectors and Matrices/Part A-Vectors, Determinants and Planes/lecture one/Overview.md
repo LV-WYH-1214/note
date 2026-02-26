@@ -2,9 +2,7 @@
 created: 2026-02-04 12:06
 course: Math
 tags:
-  - study
-  - note
-  - video-learning
+  - "#math"
 annotation-target: 38223d6ec70b12de9d01446438100b9d_MIT18_02SC_notes_0.pdf
 ---
 Target Deck: Math

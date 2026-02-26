@@ -2,9 +2,7 @@
 created: 2026-02-04 16:03
 course: math
 tags:
-  - study
-  - note
-  - video-learning
+  - math
 ---
 Target Deck: math
 
