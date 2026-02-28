@@ -16,7 +16,7 @@ Target Deck: math
 **🏷️ 标签：** #study #note
 
 ---
-
+![](../../../../download/video/Lec%2013：%20Lagrange%20multipliers%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007/Lec%2013：%20Lagrange%20multipliers%20｜%20MIT%2018.02%20Multivariable%20Calculus,%20Fall%202007.mp4)
 
 ---
 
@@ -25,7 +25,13 @@ Target Deck: math
 - [ ] 
 
 ## 📝 笔记内容 (Notes)
-
+- [[Lec 13： Lagrange multipliers ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=00:00|00:00]] <Untitled Chapter 1>
+- [[Lec 13： Lagrange multipliers ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=00:49|00:49]] method of lagrange multipliers
+- [[Lec 13： Lagrange multipliers ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=03:55|03:55]] find the point closest to the origin
+- [[Lec 13： Lagrange multipliers ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=04:41|04:41]] minimize distance to the origin
+- [[Lec 13： Lagrange multipliers ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=12:33|12:33]] replacing min max problem in two variables with a constraint
+- [[Lec 13： Lagrange multipliers ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=22:51|22:51]] compute the determinant
+- [[Lec 13： Lagrange multipliers ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=37:55|37:55]] build a pyramid with a given triangular base
 
 ---
 
