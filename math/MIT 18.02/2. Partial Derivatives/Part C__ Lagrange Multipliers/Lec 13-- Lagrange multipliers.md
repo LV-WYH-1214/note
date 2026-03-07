@@ -8,7 +8,7 @@ tags:
 ---
 Target Deck: math
 
-#  Lec 13-- Lagrange multipliers
+#  Lec 13-- Lagrange multipliers（拉格朗日乘数法)
 
 
 **📅 日期：** 2026-02-28

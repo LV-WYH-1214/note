@@ -428,7 +428,7 @@
     "chatMode": "chat"
   },
   "continuationOptions": {
-    "continuationModelId": "anthropic/claude-3.5-sonnet",
+    "continuationModelId": "deepseek/deepseek-chat",
     "enableTabCompletion": false,
     "tabCompletionModelId": "deepseek/deepseek-chat",
     "tabCompletionOptions": {
