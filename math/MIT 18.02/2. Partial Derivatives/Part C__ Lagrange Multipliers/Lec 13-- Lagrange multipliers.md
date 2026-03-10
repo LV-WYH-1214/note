@@ -35,14 +35,11 @@ Target Deck: math
 
 TARGET DECK: 高数
 
-START
-Basic
-Front: 拉格朗日乘数法的核心方程是什么？
-Back: 求解函数极值时，梯度平行的条件为：
+拉格朗日乘数法的核心方程是什么？ #flashcard
+求解函数极值时，梯度平行的条件为：
 \[ \nabla f = \lambda \nabla g \]
 约束条件为：
 \[ g(x,y) = c \]
-END
 
 ---
 
