@@ -35,7 +35,7 @@ Target Deck: math
 
 TARGET DECK: 高数
 
-拉格朗日乘数法的核心方程是什么？ #flashcard
+拉格朗日乘数法的核心方程是什么？ #card
 求解函数极值时，梯度平行的条件为：
 \[ \nabla f = \lambda \nabla g \]
 约束条件为：
