@@ -33,7 +33,7 @@ Target Deck: math
 - [[Lec 13： Lagrange multipliers ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=22:51|22:51]] compute the determinant
 - [[Lec 13： Lagrange multipliers ｜ MIT 18.02 Multivariable Calculus, Fall 2007.mp4#t=37:55|37:55]] build a pyramid with a given triangular base
 
-TARGET DECK:高数
+TARGET DECK: 高数
 
 START
 Basic
