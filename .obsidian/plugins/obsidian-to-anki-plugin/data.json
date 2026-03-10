@@ -1,0 +1,143 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": "",
+      "GD": "",
+      "Image Occlusion": "",
+      "MBasic": "",
+      "Saladict Word": "",
+      "红宝书": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Cloze": "Text",
+      "GD": "Front",
+      "Image Occlusion": "Occlusion",
+      "MBasic": "Front",
+      "Saladict Word": "Date",
+      "红宝书": "单词"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "密码/Simpread.md": "18a725bfacacbc9d3522aae8feb2f33c",
+    "templete/错题.md": "414d91037476121f0a074b74685f285a",
+    "templete/康奈尔笔记法.md": "337319b632f564bbb09fbade1d1fe92f",
+    "templete/原子知识点.md": "9b03ffa839493944b63661ce522ba33d",
+    "daily/calendar.md": "29272358eaa1583e7bb15e75bcced3e7",
+    "daily/daily-note/2026-02-06.md": "8b8d08cbc9ba9f53c13037e0f3cd5047",
+    "daily/daily-note/2026-02-05.md": "659dfde1b0fa7bb48f226c8788fcc6b1",
+    "math/MIT 18.02/2. Partial Derivatives/Part C__ Lagrange Multipliers/Lec 13-- Lagrange multipliers.md": "38f45b1e0f2fa3f56049c3d3a29ad5cf",
+    "math/MIT 18.02/2. Partial Derivatives/Part B__ Chain Rule, Gradient and Directional Derivatives/Lec 12_ Gradient; directional derivative; tangent plane.md": "3254c335649f9b0cff7e180ad3979843",
+    "math/MIT 18.02/2. Partial Derivatives/Part B__ Chain Rule, Gradient and Directional Derivatives/Lec 11 Differentials; chain rule.md": "1c5d0ff057cf28b169afb2c03b31e85d",
+    "math/MIT 18.02/2. Partial Derivatives/Part A__Functions of Two Variables, Tangent Approximation and Optimization/Lec 9__ Max-min problems; least squares.md": "25d5caa21298ef02a1220c3962dabb13",
+    "math/MIT 18.02/2. Partial Derivatives/Part A__Functions of Two Variables, Tangent Approximation and Optimization/Lec 8__Level curves; partial derivatives; tangent plane.md": "40d1bd2120c14503212cd56f7f0eab18",
+    "math/MIT 18.02/2. Partial Derivatives/Part A__Functions of Two Variables, Tangent Approximation and Optimization/Lec 10-- Second derivative test; boundaries & infinity.md": "9b866ce61032454151652a979f573d1d",
+    "math/MIT 18.02/1. Vectors and Matrices/Part B_Matrices and Systems of Equations/Lec 4_Square systems; equations of planes.md": "7f9a3f106cd8b1f10d9649a4398ce626",
+    "math/MIT 18.02/1. Vectors and Matrices/Part C/Lecture 6_Velocity, acceleration; Kepler's second law.md": "e92409372f6d9a9008d35e2e00b5c12e",
+    "math/MIT 18.02/1. Vectors and Matrices/Part C/Lec 7 Review.md": "4b937b8a24ac4608171bc28fc172230c",
+    "math/MIT 18.02/1. Vectors and Matrices/Part C/Lecture 5-Parametric equations for lines and curves.md": "f33206bf140eec2d9043ae1a2e990223",
+    "math/MIT 18.02/1. Vectors and Matrices/Part A-Vectors, Determinants and Planes/lecture two/Determinants;cross product.md": "5e0e34bd62e233125c5cc83f9ff2cc8a",
+    "math/MIT 18.02/1. Vectors and Matrices/Part A-Vectors, Determinants and Planes/lecture one/Recitation.md": "8045002d0433da2f1c05a42672971b5d",
+    "math/MIT 18.02/1. Vectors and Matrices/Part A-Vectors, Determinants and Planes/lecture one/Overview.md": "cc96b5d1a6d01659bed755909733dfb9",
+    "math/MIT 18.02/1. Vectors and Matrices/Part A-Vectors, Determinants and Planes/lecture one/clip.md": "faba6e26d7a313de89170fb9fd6f21cf",
+    "math/MIT 18.02/1. Vectors and Matrices/Part A-Vectors, Determinants and Planes/lecture three/Matrices; inverse matrices.md": "5b7182b9345881dc9ea66ea4ada68392",
+    "code/知识点/模拟.md": "d866a41498737cdd8f8bebe75dbb297f",
+    "code/知识点/递归.md": "a041054fecef8ce7d36a6fa771cde526",
+    "code/知识点/分治.md": "71c87a970fc325d24f96c8b090312942",
+    "code/wrong/luogu/# P5461 赦免战俘.md": "c21b229961ad8ee1709168726888e825"
+  },
+  "fields_dict": {
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ],
+    "GD": [
+      "Front",
+      "Back",
+      "Audio",
+      "IPA"
+    ],
+    "Image Occlusion": [
+      "Occlusion",
+      "Image",
+      "Header",
+      "Back Extra",
+      "Comments"
+    ],
+    "MBasic": [
+      "Front",
+      "Back",
+      "Audio",
+      "IPA"
+    ],
+    "Saladict Word": [
+      "Date",
+      "Text",
+      "Translation",
+      "Context",
+      "ContextCloze",
+      "Note",
+      "Title",
+      "Url",
+      "Favicon",
+      "Audio"
+    ],
+    "红宝书": [
+      "单词",
+      "音标",
+      "解释",
+      "红宝书",
+      "字源",
+      "不择手段背单词",
+      "趣味全助记",
+      "Audio"
+    ]
+  }
+}
