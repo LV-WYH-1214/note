@@ -2,7 +2,7 @@
   "contextAwareMode": true,
   "sourceSupport": false,
   "codeHighlightSupport": true,
-  "inlineID": false,
+  "inlineID": true,
   "contextSeparator": " > ",
   "deck": "高数",
   "folderBasedDeck": true,
