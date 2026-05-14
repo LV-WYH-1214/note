@@ -15,7 +15,7 @@
   "minimumChunkSize": 20,
   "longLineThreshold": 250,
   "showVerboseLog": false,
-  "suspendFileWatching": true,
+  "suspendFileWatching": false,
   "trashInsteadDelete": true,
   "periodicReplication": false,
   "periodicReplicationInterval": 60,
@@ -53,7 +53,7 @@
   "syncInternalFilesIgnorePatterns": "\\/node_modules\\/, \\/\\.git\\/, \\/obsidian-livesync\\/",
   "syncInternalFilesTargetPatterns": "",
   "syncInternalFilesInterval": 60,
-  "additionalSuffixOfDatabaseName": "8da3cae0b6fb9ee3",
+  "additionalSuffixOfDatabaseName": "467ee064d6c51768",
   "ignoreVersionCheck": false,
   "lastReadUpdates": 0,
   "deleteMetadataOfDeletedFiles": false,
@@ -68,14 +68,14 @@
   "useDynamicIterationCount": false,
   "syncAfterMerge": false,
   "configPassphraseStore": "",
-  "encryptedPassphrase": "%$zQ+HfQrAaj9l6h4s2kt0s++fsll5UUsOKmOVV1QvdIEGnQEjwlPSUfK44gRwgtODKgPZU9jMz9ZWOtG3pSQ/IwvXEXGMKq8BstO4YvcJPhsEQA7uzxsgKY0plQFf1osinQZ74Ws=",
-  "encryptedCouchDBConnection": "%$zQ+HfQrAaj9l6h4s2kt0s++fsll5UUsOKmOVV1QvdIHwuIS3IrabXIvwxl/j9xCkOOTu/dL0hLHRwFqY6aJXkILnisoStDxS23D0Gbubdz2GtfSGNPDXws2/FfJg/f1wJNy5qO/FHIzejzFUJQoQhS97EEPLQA12Q0fNL7ySNLC6CM96FvsCmK7wX375xNgIv9aA0LnF8Va1a4iVmy3WL2FwJIvLnOyKRWmkfTy0ZQbtUoLsWpktk8tY9dxc3yleRA5vVlY4DfkP/kUnPpO7IRVHTGa6V5xczCyqaJLEuWwTXgw2JhEPTy8js+obwEIvm5tuT0obYgXTIL2ICAQWfExBB+QWaw8IC7giVbt/1vF1ardX8rd7E7/1qIW1Ii6pWdQmVppspiDjZF764yKo0K+OXbAV5jV24L95BgnTgq3IePC2RXYs3jiX6Dwf8vYm8lwZu/TmaW9U5FYSqOdfnrOnpbD/u77lexgQVELNzYNuESX4slA/TkYzhiO9/oBULQqxre67gMn+32X0wqYHzTgFLSwsf6XrzoTwTZ/0DJqBpu1z+QxFmbHYxe7nQS9IZ2DRoF58MISVl05Q14Dl2v0gZHyoHuCJeT2RRs+AYkfTsovUsqSwwQyfBEzey7ElosDOmfca1eNv3iuz0dX4G53Q7+liyN7krqBkps0XyT/QEC/IX3ZTKStre/4U",
+  "encryptedPassphrase": "%$zQ+HfQrAaj9l6h4s2kt0s++fsll5UUsOKmOVV1QvdIGMACPpbqgj7DhwUSmmyHbDwI6+nW3+5AbL0WXnHALJ8zDgmqULDK909aXgSFB9L1ckG7K6OADeOwAzLXZWbyIMBe/dA8Y=",
+  "encryptedCouchDBConnection": "%$zQ+HfQrAaj9l6h4s2kt0s++fsll5UUsOKmOVV1QvdIGCdqxu5DU/4D4VEhe8lkY1Sz0LKJrir8z4UJ5rodhVCaHT9UyWThBIMZV0yaXR4EEZmJQ3NR8//FhadyjsCXFQKuaUY/gtS5ffYA3SxtTRVMwS4CY0IE08tHh7ED6R/93FYKcV3jWjBhfRGE7SRiWOOZcrva/GfSVakzwiXpHMRBECsoEsHvLJqySJedtoO6DTIFNvm1PHTMWFDk0/sVUdDUrmpA4wvtGaaGcY+hKehYXQsdaz74cYFB/hibz2uK6EBKE1IV07xFoyUek+D0QIcuVKsWHrgrxMbI7y3TSv3v+s4h81T9HaZA0LGJNS+EL6tWAIjqvltzuJPdif25QuxDjT40b4T87pjmYKjWL/7gwHfW4s9uZqt929CcdVTQMVk4foAcYdzzrp4W5o20PBxE/KdF00oaJoPZ5fibbTvNACElixkJ0jPjnUVfu+gL1A7adczAmXVuicrkpkDvbFbIA3D4x/oflS7M/pRvEaQb+zR+q7hEXhwLAvMdEGUgwp/LwddULNZUSx+ld9048SlBCUnF7JdTStJBjkf0zJLPeWQa2cDWuO6YpM4o/WxLtVOBoMnUXA8TALBDlatXiuAgETP/Szll0RXk3nXrU8eH7clCGf0YXKoRgOAHaoUD6VL3/gsxzgTUPBFXYr",
   "permitEmptyPassphrase": false,
   "remoteConfigurations": {
     "remote-mocq9tci-jwxagf": {
       "id": "remote-mocq9tci-jwxagf",
       "name": "wyw",
-      "uri": "%$zQ+HfQrAaj9l6h4s2kt0s++fsll5UUsOKmOVV1QvdIG6yFATK8h/YuxR4CQADKwIuIq9XdUBolDTXnRt/jywN0W3xlY7CS0WqxmVSCci/ZkzEF54rd+sxNXjxivgVOw6gdtZwcPnTaG4WEqCncyV8QdFi4YWh/Nev95JKqQCq1QWMYY4Zu1edHB2vOV5hi+KajotJ/7L+tQ=",
+      "uri": "%$zQ+HfQrAaj9l6h4s2kt0s++fsll5UUsOKmOVV1QvdIEuoKiooCDUD7Qstp1ITXfewToTGvWjJmlYdxGpCppe6RVxM3DpWlPv0S8EETOakLBck9D6VvRRdtmD2TTP/cl/gTS6ubw1f090LIN8F7QiI6GU7l4JqV8jlFn6tNbwumAVnpVF4IB8ucO5S4yW+lsOnVz09GYIsCs=",
       "isEncrypted": true
     }
   },
